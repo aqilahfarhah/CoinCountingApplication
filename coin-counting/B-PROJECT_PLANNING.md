@@ -28,7 +28,9 @@ In this coin counting application, the scope of project will be identified. For 
 
 ### Responsibility Assignment Matrices (RAM)
 
-!!RAM hhere!!
+![image](https://user-images.githubusercontent.com/121591140/211961705-4708f915-6688-4813-beb8-18316dadf937.png)
+![image](https://user-images.githubusercontent.com/121591140/211961766-50c61449-1361-4504-b627-4a388fb79baf.png)
+
 
 |Roles|<div style="width: 150px"> Person In Charge </div>|Responsibilities|
 |:-----:|:------:|------|
