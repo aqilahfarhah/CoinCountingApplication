@@ -1,4 +1,4 @@
-# Coin COunting Application
+# Coin Counting Application
 
 This is a project that can calculate total coins from the image given. This project use Artificial intelligence technique which is image processing
 
