@@ -16,7 +16,7 @@
 
 **1.0 PROJECT OBJECTIVES**
 
-The car plate recognition system done by QTMT Inc. was intended to develop an artificial intelligence system that are able to detect Malaysia car number plate. Besides, one of the aims of QTMT Inc. is to develop a system that are able to recognize the character of the car number plate. Not only that, we also intend to build an application programming interface (API) for the future ease if use as the integration module.
+The coin counting application done by Cloud Revel Solution was intended to develop an artificial intelligence system that are able to detect Malaysia’s coins and calculate its value. Not only that, we also intend to build an application that can be applied in hardware such as vending machine for ease the customers that used the vending machine.
 
 **2.0 SUMMARY OF PROJECT RESULTS**
 
